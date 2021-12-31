@@ -1,0 +1,145 @@
+
+.sidebar-titles {
+	text-align: center;
+}
+
+.overflow-box {
+	background: white;
+	border: #dbdbdb solid thin;
+	padding: 10px;
+	overflow-y: auto;
+	font-size: 18px;
+	padding-top: 0px;
+}
+
+hr {
+	border-top: 1px solid #d4d4d4
+}
+
+.bttn-material-flat.bttn-sm {
+	font-size: 9px;
+}
+
+.awesome-checkbox label {
+	float: left;
+}
+
+.selectize-input {
+	border: none !important;
+}
+
+#sidebarToggle {
+	width: 100%;
+	background-color: #0a4377;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+}
+
+#sidebarToggle2 {
+	width: 20px;
+	background-color: #0a4377;
+	min-height: 150px;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+}
+
+.hidden {
+	opacity: 0;
+}
+
+.col-sm-8, .col-sm-12 {
+	width: 100%;
+}
+
+#download_name {
+	padding-bottom: 8px;
+}
+
+.navbar-default {
+	background-color:  #330033 !important; 
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	color: #eeeeee !important;
+    background-color: #0a4377 !important;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:  #eeeeee !important;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+	color: #555658 !important;
+}
+
+.bttn-material-flat.bttn-primary {
+	background: #0a4377;
+}
+
+
+.well {
+	background-color: #eeeeee !important;
+}
+
+.checkbox-primary input[type="checkbox"]:checked+label::before, .checkbox-primary input[type="radio"]:checked+label::before {
+	background-color: #1799ad;
+    border-color: #1799ad;
+}
+
+a {
+	color: #0e5da6 !important;
+}
+
+a:hover, a:focus {
+	color: #08355f !important;
+}
+
+.btn-primary {
+	    background-color: #0A4377 !important;
+}
+
+.btn-primary:hover, .btn-primary:active:hover {
+	background-color: #1799ad !important;
+}
+
+.btn-primary:active {
+	background-color: #1799ad !important;
+	background-image: radial-gradient(circle, #1799ad 10%, #1799ad 11%) !important;
+}
+
+.btn-primary:focus {
+    background-color: #1799ad !important;
+}
+
+.btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+	background-color: #1799ad !important;
+}
+
+.bttn-unite.bttn-primary {
+    border-color: #0a4377;
+    color: #0a4377;
+}
+
+.bttn-unite.bttn-primary:before {
+    background: #0a4377;
+}
+
+.bttn-unite.bttn-primary:after {
+    background: #0a4377;
+}
+
+.def-bttn {
+	box-shadow: 0px 0px 10px 3px #00000080;
+    border-radius: 10px;
+}
+
+.def-bttn:hover {
+	box-shadow: 0px 0px 12px 5px #00000080;
+}
+
+.input-group-btn:first-child>.btn, .input-group-btn:first-child>.btn-group
+{
+	margin-right: 10px !important;
+}
